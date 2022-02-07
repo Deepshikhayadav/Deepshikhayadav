@@ -6,9 +6,3 @@
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with AWS, Machine learning
 - 💬 Ask me about kotlin, java, firebase, roomdb
-<--
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
