@@ -6,12 +6,13 @@
 - 👯 I’m looking to collaborate on Android
 - 🤔 I’m looking for help with AWS, Machine learning
 - 💬 Ask me about kotlin, java, firebase, room, Rest Api
-- 
+
 ### 📊 Github Stats
   <p align="center">
-![Deepshikha's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepshikhayadav&show_icons=true&theme=highcontrast)
+<img src="https://github-readme-stats.vercel.app/api?username=deepshikhayadav&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Deepshikha yadav |Stats" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav&layout=compact)](https://github.com/deepshikhayadav/github-readme-stats)
  
+---
   
   ## 🔗 Know more about me 
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:deepshikhayadav2000@gmail.com)
