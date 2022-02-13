@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with AWS, Machine learning
 - 💬 Ask me about kotlin, java, firebase, room, Rest Api
 [![Deepshikha yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepshikhayadav)](https://github.com/deepshikhayadav/github-readme-stats&count_private=true&show_icons=true&theme=highcontrast)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepshikhayadav&repo=github-readme-stats)](https://github.com/deepshikhayadav/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav)](https://github.com/deepshikhayadav/github-readme-stats)
