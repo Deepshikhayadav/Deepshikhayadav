@@ -20,9 +20,7 @@
 ### GitHub Streak
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark)](https://deepshikhayadav.github.io)
   
-
-
-![Profile views](https://gpvc.arturio.dev/deepshikhayadav)  
+---
   
   ## 🔗 Know more about me 
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:deepshikhayadav2000@gmail.com)
@@ -32,4 +30,4 @@
 
 
 [![GitHub deepshikhayadav](https://img.shields.io/github/followers/deepshikhayadav?label=follow&style=social)](https://github.com/deepshikhayadav)
-
+![Profile views](https://gpvc.arturio.dev/deepshikhayadav)  
