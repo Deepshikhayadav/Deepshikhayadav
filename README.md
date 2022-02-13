@@ -11,7 +11,7 @@
   <p align="center">
 ![Deepshikha's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepshikhayadav&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav&layout=compact)](https://github.com/deepshikhayadav/github-readme-stats)
-  </p>
+ 
   
   ## 🔗 Know more about me 
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:deepshikhayadav2000@gmail.com)
