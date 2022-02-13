@@ -28,6 +28,7 @@
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:deepshikhayadav2000@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Deepshi83711299)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/deepshikha-yadav-27-10/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack-OverFlow-black?style=for-the-badge&logo=Stackoverflow)](https://stackoverflow.com/users/12636730/deepshikha-yadav?tab=topactivity)
 <!--https://stackoverflow.com/users/12636730/deepshikha-yadav?tab=topactivity-->
 
 [![GitHub deepshikhayadav](https://img.shields.io/github/followers/deepshikhayadav?label=follow&style=social)](https://github.com/deepshikhayadav)
