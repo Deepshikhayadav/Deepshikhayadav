@@ -14,7 +14,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav&layout=compact)](https://github.com/deepshikhayadav/github-readme-stats"/>
 
 ---
-
+### GitHub Streak
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark)](https://deepshikhayadav.github.io)
+  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepshikhayadav)  
 
 ![Profile views](https://gpvc.arturio.dev/deepshikhayadav)  
