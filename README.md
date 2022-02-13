@@ -31,3 +31,44 @@
 <!--https://stackoverflow.com/users/12636730/deepshikha-yadav?tab=topactivity-->
 
 [![GitHub deepshikhayadav](https://img.shields.io/github/followers/deepshikhayadav?label=follow&style=social)](https://github.com/deepshikhayadav)
+
+<link rel="stylesheet" href="/path/to/cssIcons.css" />
+
+<!-- add the "svg-icon-bg" class in addition the desired "iconNAME" class -->
+<span class="svg-icon-bg iconBold"></span>
+
+<!-- the icon's color matches the "currentColor", so changing the "color" property will change the icon color -->
+<span class="svg-icon-bg iconFire" style="color: red;"></span>
+
+<!-- add the "native" class to get native styles; these do not respect "currentColor" changes -->
+<span class="svg-icon-bg iconFaceMindBlown native"></span>
+```
+
+You can add support for more CSS icons my editing the `src/cssIcons.json` file. Supported formats:
+* the name of the icon as a string (e.g. `"Bold"`)
+* an object with the following properties:
+  * `name` - the name of the icon (e.g. `"Bold"`)
+  * `css` - arbitrary css to add to the icon class (e.g. `"width: 14px; height: 14px;"` )
+
+## Using the front-end helper for prototyping
+
+**Note: This is not intended to be used in production.**
+
+If you include the `index.js` within your prototype’s `body` element (`<script src="https://unpkg.com/@stackoverflow/stacks-icons"></script>`) you can render Stacks Icons in the browser using only the following format:
+
+```html
+<svg data-icon="FaceMindBlown" class="native"></svg>
+<svg data-spot="Search"></svg>
+```
+
+This package looks out for elements that look like `svg[data-icon]`. If the icon doesn’t exist in Stacks, it will throw you an error in console. Anything in the `class=""` attribute will be passed to the included SVG e.g., `native`
+
+### Regex for replacing with `@Svg` helper
+
+This might be useful if you want to convert a large prototype to use the Razor helper.
+
+Find
+
+```
+<svg data-icon="(.+?)" class="(.+?)"></svg>
+```
