@@ -23,8 +23,8 @@
 
 ---
 ### GitHub Streak
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark)](https://deepshikhayadav.github.io)
-  
+ <-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark)](https://deepshikhayadav.github.io)-->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark)](https://git.io/streak-stats)
 ---
   
   ## 🔗 Know more about me 
