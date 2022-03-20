@@ -27,7 +27,7 @@
   ### 🤠Used Languages
   
    <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav&layout=compact&theme=dracula)](https://github.com/deepshikhayadav/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav&theme=dracula&layout=compact)](https://github.com/deepshikhayadav/github-readme-stats"/>
 </div>
 
 ---
