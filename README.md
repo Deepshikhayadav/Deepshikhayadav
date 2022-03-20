@@ -13,22 +13,21 @@
 - 💬 Ask me about kotlin, java, firebase, room, Rest Api
 
 ### 📊 Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=deepshikhayadav&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Deepshikha yadav |Stats" />
-  
  <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=deepshikhayadav&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Deepshikha yadav |Stats" />
    
-![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=dark&column=4&no-frame=true)
+![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=dracula&column=4&no-frame=true)
 
-![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=deepshikhayadav&area=true&hide_border=true&theme=dark)
+![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=deepshikhayadav&area=true&hide_border=true&theme=dracula)
 
  
   </div>
   
   ---
   ### 🤠Used Languages
+   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav&layout=compact)](https://github.com/deepshikhayadav/github-readme-stats"/>
-
+</div>
 ---
 ### GitHub Streak
 
