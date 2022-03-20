@@ -16,12 +16,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=deepshikhayadav&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Deepshikha yadav |Stats" />
   
-  
-![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=highcontrast&column=4&no-frame=true)
+ <div>
+   
+![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=dark&column=4&no-frame=true)
 
-![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=deepshikhayadav&area=true&hide_border=true&theme=highcontrast)
+![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=deepshikhayadav&area=true&hide_border=true&theme=dark)
 
-
+ 
+  </div>
   ### 🤠Used Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav&layout=compact)](https://github.com/deepshikhayadav/github-readme-stats"/>
 
