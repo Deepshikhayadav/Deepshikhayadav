@@ -25,10 +25,14 @@
   
   ---
   ### 🤠Used Languages
+  
    <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav&layout=compact)](https://github.com/deepshikhayadav/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav&layout=compact&theme=dracula)](https://github.com/deepshikhayadav/github-readme-stats"/>
 </div>
+
 ---
+
+
 ### GitHub Streak
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark)](https://git.io/streak-stats)
