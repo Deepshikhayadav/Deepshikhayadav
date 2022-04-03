@@ -15,7 +15,7 @@
 ### 📊 Github Stats
  <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=deepshikhayadav&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Deepshikha yadav |Stats" />
-   
+   <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=deepshikhayadav&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true" /> 
 ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=dracula&column=4&no-frame=true)
 
 ![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=deepshikhayadav&area=true&hide_border=true&theme=dracula)
