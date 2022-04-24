@@ -32,8 +32,6 @@
 
 ---
 
-[![My contribution](https://skyline.github.com/Deepshikhayadav/2021)]
-
 ### GitHub Streak
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark)](https://git.io/streak-stats)
