@@ -32,7 +32,7 @@
 
 ---
 
-<img src="https://skyline.github.com/Deepshikhayadav/2021"/>
+[![My contribution](https://skyline.github.com/Deepshikhayadav/2021)]
 
 ### GitHub Streak
 
