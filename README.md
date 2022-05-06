@@ -28,12 +28,7 @@
 
 ## 🎯GitHub Streak
 
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark)](https://git.io/streak-stats)
-  
-  </div>
-  
+<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark" /> </p>
   
   ## 🚀 Know more about me 👋
   
