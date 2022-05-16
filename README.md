@@ -23,7 +23,7 @@
 ![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=deepshikhayadav&area=true&hide_border=true&theme=dracula)
 
  
-  </span>
+  </div>
   
 
 ## 🎯GitHub Streak
