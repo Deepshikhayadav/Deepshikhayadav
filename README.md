@@ -22,7 +22,7 @@
 
 ![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=Deepshikhayadav&area=true&hide_border=true&theme=dracula)
 
- <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepshikhayadav&theme=tokyonight&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
+ <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepshikhayadav&theme=dracula&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
 
   </div>
   
