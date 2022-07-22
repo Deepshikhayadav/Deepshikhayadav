@@ -35,14 +35,14 @@
   
 ## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
   
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepshikhayadav2000@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Deepshi83711299)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepshikha-yadav-27-10/)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/12636730/deepshikha-yadav?tab=topactivity)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/deepshikhayadav2?tab=topactivity)
-[![Sololearn](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank&logoColor=white)](https://www.sololearn.com/profile/18833908)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:deepshikhayadav2000@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Deepshi83711299)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/deepshikha-yadav-27-10/)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/12636730/deepshikha-yadav?tab=topactivity)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/deepshikhayadav2?tab=topactivity)
+[![Sololearn](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.sololearn.com/profile/18833908)
 
 
 
 [![GitHub deepshikhayadav](https://img.shields.io/github/followers/deepshikhayadav?label=follow&style=social&logoColor=white)](https://github.com/deepshikhayadav)
-![Profile views](https://gpvc.arturio.dev/deepshikhayadav&logoColor=white)  
+![Profile views](https://gpvc.arturio.dev/deepshikhayadav)  
