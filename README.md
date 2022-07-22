@@ -22,7 +22,7 @@
   
 ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=dracula&column=4&no-frame=true)
 
-  <img src="https://media.giphy.com/media/gjyaNwLTFVfS8/giphy.gif"/>
+  <img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif"/>
   
 ![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=Deepshikhayadav&area=true&hide_border=true&theme=dracula)
 
