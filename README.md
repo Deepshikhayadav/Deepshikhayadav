@@ -17,12 +17,10 @@
  <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=deepshikhayadav&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Deepshikha yadav |Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav&theme=dracula&layout=compact)](https://github.com/deepshikhayadav/github-readme-stats"/>
-  
+   <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepshikhayadav&theme=dracula&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
 ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=dracula&column=4&no-frame=true)
 
 ![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=Deepshikhayadav&area=true&hide_border=true&theme=dracula)
-
- <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepshikhayadav&theme=dracula&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
 
   </div>
   
