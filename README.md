@@ -21,7 +21,7 @@
   
 ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=dracula&column=4&no-frame=true)
 
-  <img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="100"/>
+  <img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="1000"/>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav&theme=dracula&layout=compact)](https://github.com/deepshikhayadav/github-readme-stats"/>
  
   </div>
