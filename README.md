@@ -22,7 +22,7 @@
   
 ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=dracula&column=4&no-frame=true)
 
-  <img src="https://media1.tenor.com/images/97948ca733915eb236871a1b422e3a2b/tenor.gif?itemid=3535566"/>
+  <img src="https://th.bing.com/th/id/R.eede1b4adf911b0063f5f2795d3b2eec?rik=OmX%2boBRZUNnMiQ&riu=http%3a%2f%2fcdn.lowgif.com%2fmedium%2f55ca3b0180ef5e06-audio-wave-animation-gif-related-keywords-audio-wave.gif&ehk=74pFBa5pyxe7ePtFAHwW%2b5qOEZVwgw6x42KHp5xVhXs%3d&risl=&pid=ImgRaw&r=0"/>
   
 ![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=Deepshikhayadav&area=true&hide_border=true&theme=dracula)
 
