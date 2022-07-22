@@ -22,7 +22,7 @@
   
 ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=dracula&column=4&no-frame=true)
 
-  ## <img src="https://media1.tenor.com/images/97948ca733915eb236871a1b422e3a2b/tenor.gif?itemid=3535566" width="100"/>
+  <img src="https://media1.tenor.com/images/97948ca733915eb236871a1b422e3a2b/tenor.gif?itemid=3535566"/>
   
 ![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=Deepshikhayadav&area=true&hide_border=true&theme=dracula)
 
