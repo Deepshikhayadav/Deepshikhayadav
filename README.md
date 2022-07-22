@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with AWS, Machine learning
 - 💬 Ask me about kotlin, java, firebase, room, Rest Api
 
-## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25"> <b>Github Stats</b>
+## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>Github Stats</b>
 
  <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=deepshikhayadav&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Deepshikha yadav |Stats" />
@@ -22,6 +22,8 @@
   
 ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=dracula&column=4&no-frame=true)
 
+  ## <img src="https://media1.tenor.com/images/97948ca733915eb236871a1b422e3a2b/tenor.gif?itemid=3535566" width="100"/>
+  
 ![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=Deepshikhayadav&area=true&hide_border=true&theme=dracula)
 
   </div>
