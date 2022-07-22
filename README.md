@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with AWS, Machine learning
 - 💬 Ask me about kotlin, java, firebase, room, Rest Api
 
-## 📊 Github Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
  <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=deepshikhayadav&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Deepshikha yadav |Stats" />
@@ -27,7 +27,7 @@
   </div>
   
 
-## 🎯GitHub Streak
+## <img src="https://media1.tenor.com/images/7d6a5e143521f9b595382044d46f6965/tenor.gif?itemid=17543265" width="25"> <b>GitHub Streak</b>
 
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark" /> </p>
   
