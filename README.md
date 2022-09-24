@@ -1,4 +1,3 @@
-
 <p align="center">
 
   <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
@@ -53,5 +52,10 @@
 
 
 
+
+ <a href="https://gpvc.arturio.dev/deepshikhayadav/?ref=app" target="_blank">
+<img src="https://gpvc.arturio.dev/deepshikhayadav?style=for-the-badge&logo=Sololearn&logoColor=white"  style="margin-bottom: 5px;" />
+</a>      
+        
 [![GitHub deepshikhayadav](https://img.shields.io/github/followers/deepshikhayadav?label=follow&style=social&logoColor=black)](https://github.com/deepshikhayadav)
 ![Profile views](https://gpvc.arturio.dev/deepshikhayadav)  
