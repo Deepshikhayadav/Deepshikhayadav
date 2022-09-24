@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepshikhayadav&theme=tokyonight&hide_border=true"  width="500" alt="Deepshikha yadav"/></a>
-<a href="https://github.com/Deepshikhayadav"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepshikhayadav&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Deepshikha yadav"/></a>
+    <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepshikhayadav&theme=tokyonight&hide_border=true"  width="470" alt="Deepshikha yadav"/></a>
+<a href="https://github.com/Deepshikhayadav"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepshikhayadav&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="350"  alt="Deepshikha yadav"/></a>
 </p>
 
 
