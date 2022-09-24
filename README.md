@@ -51,11 +51,9 @@
 [![Sololearn](https://img.shields.io/badge/-Sololearn-black?style=for-the-badge&logo=Sololearn)](https://www.sololearn.com/profile/18833908)
 
 
-
-
- <a href="https://gpvc.arturio.dev/deepshikhayadav/?ref=app" target="_blank">
-<img src="https://gpvc.arturio.dev/deepshikhayadav?style=for-the-badge&logo=Sololearn&logoColor=white"  style="margin-bottom: 5px;" />
-</a>      
-        
+   
+    <a href="https://github.com/Deepshikhayadav">
+    <img align="center" src="https://img.shields.io/github/followers/deepshikhayadav&theme=tokyonight" width="50"/>
+  </a>      
 [![GitHub deepshikhayadav](https://img.shields.io/github/followers/deepshikhayadav?label=follow&style=social&logoColor=black)](https://github.com/deepshikhayadav)
 ![Profile views](https://gpvc.arturio.dev/deepshikhayadav)  
