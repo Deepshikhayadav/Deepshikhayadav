@@ -1,13 +1,4 @@
 
-
-
-
-
-
-
-
-
-
 <p align="center">
 
   <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
@@ -32,7 +23,7 @@
 </a>
 
 <a href="https://github.com/Deepshikhayadav">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=blueberry" width="380"/>
+   <a href="https://github.com/Deepshikhayadav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Deepshikha yadav"/></a>
 </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -41,16 +32,12 @@
 <a href="https://github.com/Deepshikhayadav"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepshikhayadav&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Deepshikha yadav"/></a>
 </p>
 
- ## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
- 
- <p align="center">
-  <a href="https://github.com/Deepshikhayadav"><img src="https://activity-graph.herokuapp.com/graph?username=Deepshikhayadav&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Deepshikha yadav"/></a>
-</p>
 
 
-## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
+  <a href="https://github.com/Deepshikhayadav"><img src="https://activity-graph.herokuapp.com/graph?username=Deepshikhayadav&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="500"  alt="Deepshikha yadav"/></a>
+  
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=blueberry" width="500"/>
 
-<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark" /> </p>
 
 ## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
   
