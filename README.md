@@ -1,4 +1,8 @@
 
+
+
+
+
 <p align="center">
 
   <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
@@ -22,14 +26,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepshikhayadav&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 </a>
   <a href="https://github.com/Deepshikhayadav/">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="380"/>
 </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
     <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepshikhayadav&theme=tokyonight&hide_border=true"  width="520" alt="Deepshikha yadav"/></a>
-<a href="https://github.com/Deepshikhayadav"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepshikhayadav&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Deepshikha yadav"/></a>
+<a href="https://github.com/Deepshikhayadav"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepshikhayadav&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="380"  alt="Deepshikha yadav"/></a>
 </p>
 
 
