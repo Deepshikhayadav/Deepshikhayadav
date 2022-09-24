@@ -35,7 +35,7 @@
 
 <p align="center">
     <a href="https://github.com/Deepshikhayadav">
-      <img src="https://activity-graph.herokuapp.com/graph?username=Deepshikhayadav&show_icons=true&locale=en&layout=compact&theme=darcula" width="820"  alt="Deepshikha yadav"/></a>
+      <img src="https://activity-graph.herokuapp.com/graph?username=Deepshikhayadav&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="820"  alt="Deepshikha yadav"/></a>
   <a href="https://github.com/Deepshikhayadav">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=tokyonight" width="820"/>
   </a>
