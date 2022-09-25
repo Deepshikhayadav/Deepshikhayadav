@@ -11,11 +11,11 @@
 - 🤔 I’m looking for help with AWS, Machine learning
 - 💬 Ask me about kotlin, java, firebase, room, Rest Api
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Deepshikhayadav)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=Deepshikhayadav)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Deepshikhayadav)
+
 
 
 
