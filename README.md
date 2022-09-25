@@ -13,9 +13,7 @@
 
 
 <p align="center">
-  
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
+  <img align="center" src="https://readme-jokes.vercel.app/api" width="820"/>
 </p>
 
 
