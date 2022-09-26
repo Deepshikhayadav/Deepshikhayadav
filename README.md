@@ -16,8 +16,6 @@
   <img align="center" src="https://readme-jokes.vercel.app/api" width="820"/>
 </p>
 
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p align="center">
